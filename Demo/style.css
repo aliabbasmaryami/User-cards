@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+.card-teachers {
+  width: 766.14px;
+  height: 440.182px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 27.86px;
+  background: #fff0f7;
+  box-shadow: 22px 0px 40px 0px rgba(0, 0, 0, 0.05);
+  margin: auto;
+  position: relative;
+  z-index: 2;
+}
+.card-teacher-data {
+  width: 423px;
+  height: 167px;
+  padding: 58px;
+}
+.card-teachers .card-teacher-data h1 {
+  color: #ff1d86;
+  font-family: inter;
+  font-weight: 600;
+  font-size: 33px;
+  width: 150.172px;
+  height: 50.147px;
+  margin: 0;
+}
+.card-teacher-detail p {
+  display: flex;
+  width: 423px;
+  z-index: 2;
+}
+.card-teacher-detail p {
+    display: inline-flex;
+  color: #4d4d4d;
+  font-family: Inter;
+  font-size: 22.288px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27.86px; /* 125% */
+}
+.card-teacher-btn button {
+  width: 255px;
+  height: 50px;
+  background: #ff1d86;
+  border-radius: 12px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 22.288px;
+  font-weight: 400;
+  border: none;
+  margin-bottom: 0;
+}
+
+.card-teacher-bg {
+  background: url(./assects//Group\ 1000006015.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 373px;
+  height: 386px;
+  flex-shrink: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+  /* margin-top: 10; */
+}
+
+/* .cards{
+    width: 90%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.techer-card {
+    width: 520.14px;
+     display: flex; 
+    height: 390.182px;
+    flex-shrink: 0;
+    border-radius: 27.86px;
+    background: #e1f3e5;
+    padding-bottom: 0px;
+    box-shadow: 22px 0px 40px 0px rgba(0, 0, 0, 0.05);
+}
+
+
+.techer-card-taxt {
+    width: 40%;
+    flex-shrink: 0;
+    padding: 3.5rem 0px 0px 38px;
+    z-index: 1;
+}
+
+.techer-card-taxt h2 {
+    color: var(--new, #00AFEF);
+    font-family: Inter;
+    font-size: 28.432px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30.147px;
+   
+}
+
+.techer-card-taxt p {
+    color: #4D4D4D;
+    font-family: Inter;
+    font-size: 20.288px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20.86px;
+  
+}
+
+.techer-card-taxt button {
+    width: 200px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: var(--new, #00AFEF);
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20.288px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.86px;
+    border: none;
+}
+
+.img-div{
+    width: 65%;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    padding: 0rem 15px 0px 0px;
+    align-items: last baseline;
+}
+
+.img-div img{
+    width: 100%;
+    height: 80%;
+    
+    
+} */
